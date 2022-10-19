@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #1d1d1d;
+}
+header{
+    max-width: 500px;
+    min-width: 280px;
+    padding-left: 400px;
+    
+}
+header > h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font: 2em;
+    color: white;
+    padding-bottom: 0px ;
+}
+header > p{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    padding-bottom: 30px;
+}
+nav > a{
+    padding: 44%;
+}
+iframe{
+    padding-top: 10px;
+}
+
+

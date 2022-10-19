@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagens</title>
+    <style>
+        h1{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        p{
+            font: 1em;
+            padding: 10px;
+        }
+    </style>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <H1>Desafio das Imagens</H1>
+    <p>inserir imagens em HTML é muito simple, tanto no conteúdo quanto lá em cima como ícone de favoritos!</p>
+    <picture>
+        <source media="(max-width:280px)" srcset="github-pp.png">
+        <source media="(max-width:500px )" srcset="github-p.png">
+        <source media="(max-width:800px)" srcset="github-m.png">
+        <source media="(max-width:1200px)" srcset="github-g.png">
+        <img src="github-gg.png" alt="github-gg">
+    </picture>
+</body>
+</html>
