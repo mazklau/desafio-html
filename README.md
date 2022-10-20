@@ -1,13 +1,10 @@
 # desafio html
  Meus primeiro passo
 
-<a href="https://mazklau.github.io/desafio-html/desafio 01">
-<a href="https://mazklau.github.io/desafio-html/desafio 02">
-<a href="https://mazklau.github.io/desafio-html/desafio 03">
-<a href="https://mazklau.github.io/desafio-html/desafio 04">
-<a href="https://mazklau.github.io/desafio-html/desafio 05">
-<a href="https://mazklau.github.io/desafio-html/desafio 06">
-<a href="https://mazklau.github.io/desafio-html/desafio 07">
-<a href="https://mazklau.github.io/desafio-html/desafio 08">
-<a href="https://mazklau.github.io/desafio-html/desafio 09">
-<a href="https://mazklau.github.io/desafio-html/desafio 10">
+<a href="https://mazklau.github.io/desafio-html/desafio 01/desafio01.html">
+<a href="https://mazklau.github.io/desafio-html/desafio 02/desafio02.html">
+<a href="https://mazklau.github.io/desafio-html/desafio 03/desafio03.html">
+<a href="https://mazklau.github.io/desafio-html/desafio 04/desafio04.html">
+<a href="https://mazklau.github.io/desafio-html/desafio 05/index.html">
+<a href="https://mazklau.github.io/desafio-html/desafio 06/desafio06.html">
+<a href="https://mazklau.github.io/desafio-html/desafio 07/desafio07.html">
