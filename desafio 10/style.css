@@ -33,13 +33,7 @@
     *{
     margin: 0px;
     padding: 0px;
-    
 
-    }
-    html,
-    body{
-        margin: 0px;
-        padding-top: 0px;
     }
     body{
         background-color: var(--cor2);
@@ -80,7 +74,7 @@
         background-color: white;
         box-shadow: 0px 0px 15px black;
         padding: 10px;
-        border: 20px;
+        border: 10px;
         border-bottom-right-radius: 10px;
         border-bottom-left-radius: 10px;
         max-width: 800px;
