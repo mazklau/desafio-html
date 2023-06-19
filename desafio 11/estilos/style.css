@@ -66,3 +66,25 @@ section#redes-sociais img:hover {
     transition: transfom .3;
     
 }
+@media (width: 800px){
+    iframe#tela{
+        display: inline;
+        width: 165px;
+        height: 268px;
+        position: relative;
+        top: 51.6%;
+        left: 43%;
+        transform: translate(-50%, -50%);
+        
+    }
+    section#telefone{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -30%);
+        width: 111px;
+        height: 413px;
+        background:  url(../imagens/frame-iphone.png) no-repeat;
+    }
+
+}
