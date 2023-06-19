@@ -69,7 +69,7 @@ section#redes-sociais img:hover {
 @media (width: 800px){
     iframe#tela{
         display: inline;
-        width: 165px;
+        width: 50%;
         height: 268px;
         position: relative;
         top: 51.6%;
