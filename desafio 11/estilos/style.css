@@ -46,7 +46,8 @@ section#telefone{
 }
 
 section#redes-sociais{
-    text-align: right;   
+    text-align: right;  
+    padding-right: 5px; 
 }
 section#redes-sociais img {
     width: 60px;
@@ -69,7 +70,7 @@ section#redes-sociais img:hover {
 @media (width: 800px){
     iframe#tela{
         display: inline;
-        width: 50%;
+        width: 165px;
         height: 268px;
         position: relative;
         top: 51.6%;
