@@ -73,6 +73,7 @@ section#redes-sociais img:hover {
         width: 165px;
         height: 268px;
         position: relative;
+        padding: 15px;
         top: 51.6%;
         left: 43%;
         transform: translate(-50%, -50%);
